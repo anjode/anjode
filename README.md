@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Anthony
+- 👀 My expertise is all things data including SQL, SSIS, and Python
+- 📫 How to reach me ... anjode@gmail.com
+
+<!---
+anjode/anjode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
