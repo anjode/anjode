@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anthony
-- 👀 My expertise is in all things data including SQL, SSIS, and Python
+- 👀 My expertise is in all things data including SQL, ETL, and Python
 - 📫 How to reach me ... anjode@gmail.com
 
 <!---
